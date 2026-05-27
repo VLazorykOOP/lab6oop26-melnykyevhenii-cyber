@@ -1,0 +1,3 @@
+Signal: 0 3.7 0.2 6.4 6 
+Result Quality: 0.9345
+Aux Timestamp: 2026-05-27 14:30:00 (Перевірено)
